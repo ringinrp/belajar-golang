@@ -1,0 +1,15 @@
+header{
+    margin-bottom:50px;
+}
+
+.box-with-shadow{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px red;
+    margin-bottom:30px;
+    margin-top:30px;
+}
+
+.text{
+    color:red;
+}
